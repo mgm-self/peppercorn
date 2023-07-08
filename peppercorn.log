@@ -1,0 +1,29 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --dog
+  --make-bed
+  --out peppercorn
+  --tfile ../embark-raw-data-peppercorn30/31220711403022
+
+Hostname: Mieszkos-MacBook-Pro.local
+Working directory: /Users/mieszkomatkowski/Downloads/plink_mac_20230116
+Start time: Fri Jul  7 20:05:26 2023
+
+Random number seed: 1688785526
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+Processing .tped file.
+peppercorn-temporary.bed + peppercorn-temporary.bim + peppercorn-temporary.fam
+written.
+229988 variants loaded from .bim file.
+1 dog (1 male, 0 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1 founder and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 17 het. haploid genotypes present (see peppercorn.hh ); many commands
+treat these as missing.
+Total genotyping rate is 0.999617.
+229988 variants and 1 dog pass filters and QC.
+Note: No phenotypes present.
+--make-bed to peppercorn.bed + peppercorn.bim + peppercorn.fam ... done.
+
+End time: Fri Jul  7 20:05:27 2023
